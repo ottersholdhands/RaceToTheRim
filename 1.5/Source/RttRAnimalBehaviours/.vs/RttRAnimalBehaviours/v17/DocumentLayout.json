@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Steam\\steamapps\\common\\RimWorld\\Mods\\RaceToTheRim-master\\1.5\\Source\\RttRAnimalBehaviours\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F693F9D5-4DEB-4DB9-8B64-46D639E4635E}|RttRAnimalBehaviours\\RttRAnimalBehaviours.csproj|e:\\steam\\steamapps\\common\\rimworld\\mods\\racetotherim-master\\1.5\\source\\rttranimalbehaviours\\rttranimalbehaviours\\harmony\\pawn_trainingtracker_trainingtrackertickrare_patch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F693F9D5-4DEB-4DB9-8B64-46D639E4635E}|RttRAnimalBehaviours\\RttRAnimalBehaviours.csproj|solutionrelative:rttranimalbehaviours\\harmony\\pawn_trainingtracker_trainingtrackertickrare_patch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F693F9D5-4DEB-4DB9-8B64-46D639E4635E}|RttRAnimalBehaviours\\RttRAnimalBehaviours.csproj|e:\\steam\\steamapps\\common\\rimworld\\mods\\racetotherim-master\\1.5\\source\\rttranimalbehaviours\\rttranimalbehaviours\\damages\\damageworker_causedaze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F693F9D5-4DEB-4DB9-8B64-46D639E4635E}|RttRAnimalBehaviours\\RttRAnimalBehaviours.csproj|solutionrelative:rttranimalbehaviours\\damages\\damageworker_causedaze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F693F9D5-4DEB-4DB9-8B64-46D639E4635E}|RttRAnimalBehaviours\\RttRAnimalBehaviours.csproj|E:\\Steam\\steamapps\\common\\RimWorld\\Mods\\RaceToTheRim-master\\1.5\\Source\\RttRAnimalBehaviours\\rttranimalbehaviours\\filth and gas\\filth_liquefiedhelixiengas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F693F9D5-4DEB-4DB9-8B64-46D639E4635E}|RttRAnimalBehaviours\\RttRAnimalBehaviours.csproj|solutionrelative:rttranimalbehaviours\\filth and gas\\filth_liquefiedhelixiengas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F693F9D5-4DEB-4DB9-8B64-46D639E4635E}|RttRAnimalBehaviours\\RttRAnimalBehaviours.csproj|E:\\Steam\\steamapps\\common\\RimWorld\\Mods\\RaceToTheRim-master\\1.5\\Source\\RttRAnimalBehaviours\\rttranimalbehaviours\\harmony\\pawn_pathfollower_costtomoveintocell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F693F9D5-4DEB-4DB9-8B64-46D639E4635E}|RttRAnimalBehaviours\\RttRAnimalBehaviours.csproj|solutionrelative:rttranimalbehaviours\\harmony\\pawn_pathfollower_costtomoveintocell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F693F9D5-4DEB-4DB9-8B64-46D639E4635E}|RttRAnimalBehaviours\\RttRAnimalBehaviours.csproj|E:\\Steam\\steamapps\\common\\RimWorld\\Mods\\RaceToTheRim-master\\1.5\\Source\\RttRAnimalBehaviours\\rttranimalbehaviours\\jobs\\jobgiver_getweirdfood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F693F9D5-4DEB-4DB9-8B64-46D639E4635E}|RttRAnimalBehaviours\\RttRAnimalBehaviours.csproj|solutionrelative:rttranimalbehaviours\\jobs\\jobgiver_getweirdfood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F693F9D5-4DEB-4DB9-8B64-46D639E4635E}|RttRAnimalBehaviours\\RttRAnimalBehaviours.csproj|E:\\Steam\\steamapps\\common\\RimWorld\\Mods\\RaceToTheRim-master\\1.5\\Source\\RttRAnimalBehaviours\\rttranimalbehaviours\\achievements\\killtrackerwithor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F693F9D5-4DEB-4DB9-8B64-46D639E4635E}|RttRAnimalBehaviours\\RttRAnimalBehaviours.csproj|solutionrelative:rttranimalbehaviours\\achievements\\killtrackerwithor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pawn_TrainingTracker_TrainingTrackerTickRare_Patch.cs",
+              "DocumentMoniker": "E:\\Steam\\steamapps\\common\\RimWorld\\Mods\\RaceToTheRim-master\\1.5\\Source\\RttRAnimalBehaviours\\RttRAnimalBehaviours\\Harmony\\Pawn_TrainingTracker_TrainingTrackerTickRare_Patch.cs",
+              "RelativeDocumentMoniker": "RttRAnimalBehaviours\\Harmony\\Pawn_TrainingTracker_TrainingTrackerTickRare_Patch.cs",
+              "ToolTip": "E:\\Steam\\steamapps\\common\\RimWorld\\Mods\\RaceToTheRim-master\\1.5\\Source\\RttRAnimalBehaviours\\RttRAnimalBehaviours\\Harmony\\Pawn_TrainingTracker_TrainingTrackerTickRare_Patch.cs",
+              "RelativeToolTip": "RttRAnimalBehaviours\\Harmony\\Pawn_TrainingTracker_TrainingTrackerTickRare_Patch.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T23:19:52.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DamageWorker_CauseDaze.cs",
+              "DocumentMoniker": "E:\\Steam\\steamapps\\common\\RimWorld\\Mods\\RaceToTheRim-master\\1.5\\Source\\RttRAnimalBehaviours\\RttRAnimalBehaviours\\Damages\\DamageWorker_CauseDaze.cs",
+              "RelativeDocumentMoniker": "RttRAnimalBehaviours\\Damages\\DamageWorker_CauseDaze.cs",
+              "ToolTip": "E:\\Steam\\steamapps\\common\\RimWorld\\Mods\\RaceToTheRim-master\\1.5\\Source\\RttRAnimalBehaviours\\RttRAnimalBehaviours\\Damages\\DamageWorker_CauseDaze.cs",
+              "RelativeToolTip": "RttRAnimalBehaviours\\Damages\\DamageWorker_CauseDaze.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T19:47:27.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Filth_LiquefiedHelixienGas.cs",
+              "DocumentMoniker": "E:\\Steam\\steamapps\\common\\RimWorld\\Mods\\RaceToTheRim-master\\1.5\\Source\\RttRAnimalBehaviours\\RttRAnimalBehaviours\\Filth and Gas\\Filth_LiquefiedHelixienGas.cs",
+              "RelativeDocumentMoniker": "RttRAnimalBehaviours\\Filth and Gas\\Filth_LiquefiedHelixienGas.cs",
+              "ToolTip": "E:\\Steam\\steamapps\\common\\RimWorld\\Mods\\RaceToTheRim-master\\1.5\\Source\\RttRAnimalBehaviours\\RttRAnimalBehaviours\\Filth and Gas\\Filth_LiquefiedHelixienGas.cs",
+              "RelativeToolTip": "RttRAnimalBehaviours\\Filth and Gas\\Filth_LiquefiedHelixienGas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T19:47:37.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "KillTrackerWithOr.cs",
+              "DocumentMoniker": "E:\\Steam\\steamapps\\common\\RimWorld\\Mods\\RaceToTheRim-master\\1.5\\Source\\RttRAnimalBehaviours\\RttRAnimalBehaviours\\Achievements\\KillTrackerWithOr.cs",
+              "RelativeDocumentMoniker": "RttRAnimalBehaviours\\Achievements\\KillTrackerWithOr.cs",
+              "ToolTip": "E:\\Steam\\steamapps\\common\\RimWorld\\Mods\\RaceToTheRim-master\\1.5\\Source\\RttRAnimalBehaviours\\RttRAnimalBehaviours\\Achievements\\KillTrackerWithOr.cs",
+              "RelativeToolTip": "RttRAnimalBehaviours\\Achievements\\KillTrackerWithOr.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAvwB8AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T19:40:35.765Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JobGiver_GetWeirdFood.cs",
+              "DocumentMoniker": "E:\\Steam\\steamapps\\common\\RimWorld\\Mods\\RaceToTheRim-master\\1.5\\Source\\RttRAnimalBehaviours\\RttRAnimalBehaviours\\Jobs\\JobGiver_GetWeirdFood.cs",
+              "RelativeDocumentMoniker": "RttRAnimalBehaviours\\Jobs\\JobGiver_GetWeirdFood.cs",
+              "ToolTip": "E:\\Steam\\steamapps\\common\\RimWorld\\Mods\\RaceToTheRim-master\\1.5\\Source\\RttRAnimalBehaviours\\RttRAnimalBehaviours\\Jobs\\JobGiver_GetWeirdFood.cs",
+              "RelativeToolTip": "RttRAnimalBehaviours\\Jobs\\JobGiver_GetWeirdFood.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAD4v2AAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T19:36:14.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pawn_PathFollower_CostToMoveIntoCell.cs",
+              "DocumentMoniker": "E:\\Steam\\steamapps\\common\\RimWorld\\Mods\\RaceToTheRim-master\\1.5\\Source\\RttRAnimalBehaviours\\RttRAnimalBehaviours\\Harmony\\Pawn_PathFollower_CostToMoveIntoCell.cs",
+              "RelativeDocumentMoniker": "RttRAnimalBehaviours\\Harmony\\Pawn_PathFollower_CostToMoveIntoCell.cs",
+              "ToolTip": "E:\\Steam\\steamapps\\common\\RimWorld\\Mods\\RaceToTheRim-master\\1.5\\Source\\RttRAnimalBehaviours\\RttRAnimalBehaviours\\Harmony\\Pawn_PathFollower_CostToMoveIntoCell.cs",
+              "RelativeToolTip": "RttRAnimalBehaviours\\Harmony\\Pawn_PathFollower_CostToMoveIntoCell.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAlwCgAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T19:35:48.472Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
